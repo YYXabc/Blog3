@@ -1,0 +1,65 @@
+body {
+    background-color: #FFFFCC;
+}
+h1 {
+    font-size:350%;
+}
+
+footer {
+    background: #333;
+    color: #eee;
+    font-size: 11px;
+    padding: 10px;
+    height: 60px;
+}
+.clearUl {
+    margin:0; padding:0
+}
+
+#id_book {
+    height: 480px;
+    width: 490px;
+    overflow:auto;
+}
+
+#id_comment {
+    font-size: 150%;
+}
+
+.left_index {
+    float: left;
+    padding: 1em;
+    padding-left: 0;
+    list-style: none;
+
+}
+
+.vertical {
+    font-size: 150%;
+    padding: 1em;
+    list-style: none;
+}
+
+#pla{
+    width: 400px;
+    height: 300px;
+}
+
+.ul-li-a-class {
+    float: left;
+    padding: 10px;
+    list-style: none;
+    font-size: 250%;
+}
+
+.id-a-1 {
+    float: left;
+    padding-top: 10px;
+    list-style: none;
+    font-size: 150%;
+    font-weight: 600;
+}
+
+#panel_background {
+    background: #FFCC99;
+}

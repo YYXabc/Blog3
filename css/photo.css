@@ -1,0 +1,29 @@
+body {
+    background-color: #FFFFCC;
+}
+h1 {
+    font-family: 'Satisfy', cursive;
+    font-size: 100px;
+    text-align: center;
+    color: #bd2929;
+    margin: 50px;
+}
+img {
+    opacity:1.0;
+    margin: 10px;
+}
+img:hover {
+    opacity: 0.8;
+}
+
+footer {
+    background: #333;
+    color: #eee;
+    font-size: 11px;
+    padding: 10px;
+    height: 60px;
+}
+
+#id-table {
+    font-size: 120%;
+}

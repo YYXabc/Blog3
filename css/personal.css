@@ -1,0 +1,87 @@
+#button_span {
+    padding-left: 10px;
+    font-size: 135%;
+}
+#button_span:hover {
+    cursor: Pointer;
+}
+#p-state {
+    display: inline;
+    font-size: 120%;
+    float: left;
+}
+#button-div {
+    display: inline;
+}
+#id-button {
+    float: right;
+    margin: 2px;
+    padding: 2px;
+}
+.divA {
+    padding-top: 10px;
+    width: 174px;
+}
+.friend-request {
+    padding: 20px;
+    margin: 10px auto;
+    background-color: #999999;
+    box-shadow: 2px 3px 2px #888888;
+    border-radius: 5px;
+    font-family:sans-serif;
+}
+.friend-request p {
+    margin: 0 auto;
+    margin: 20px;
+    margin-right: 3px;
+    display: inline;
+    font-weight: bold;
+    padding: 1px;
+}
+.friend-request span {
+    margin: 0 auto;
+    display: inline;
+    font-weight: bold;
+}
+.friend-request .friend-button-no {
+    display: inline;
+    float: right;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px #888888;
+    outline:none;
+}
+.friend-request .friend-button-ok {
+    display: inline;
+    float: right;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px #888888;
+    outline:none;
+}
+.friend_list {
+    height: 600px;
+    background-color: #c0a16b;
+    box-shadow: 2px 3px 2px #888888;
+    border-radius: 5px;
+    font-family:sans-serif;
+    overflow:auto;
+}
+.friend_list li {
+    list-style: none;
+    border-top: 1px solid white;
+    padding:15px 50px;
+    background-color: #c0a16b;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.friend_list ul{
+    margin: 0;
+    padding: 5px 1px;
+    list-style-type: none;
+}
+.friend_list li:hover {
+    background-color: #8a6d3b;
+}
+.friend_list li span {
+    padding-right: 15px;
+    font-size: 1.2em;
+}
