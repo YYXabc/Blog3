@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/baguettebox.min.css">
     <link rel="stylesheet" href="css/zzsc.css">
+    <link rel="stylesheet" href="css/index.css">
     <script src="js/jquery-3.2.1.js" type="text/javascript"></script>
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
     <script src="vue.min.js"></script>

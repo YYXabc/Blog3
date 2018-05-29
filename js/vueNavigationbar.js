@@ -23,22 +23,22 @@ var vue = new Vue ({
             '                </li>\n' +
             '                <li >\n' +
             '                    <a target="_blank" :href="href.githubHref">\n' +
-            '                        <span class="glyphicon glyphicon-home"> GitHub</span>\n' +
+            '                        <span class="glyphicon glyphicon-home"></span><span class="navbar-li-span">GitHub</span>' +
             '                    </a>\n' +
             '                </li>\n' +
             '                <li >\n' +
             '                    <a target="_blank" :href="href.messageHref">\n' +
-            '                        <span class="glyphicon glyphicon-qrcode"> 点击这里给我发消息</span>\n' +
+            '                        <span class="glyphicon glyphicon-qrcode"></span><span class="navbar-li-span">>点击这里给我发消息</span>' +
             '                    </a>\n' +
             '                </li>\n' +
             '                <li >\n' +
             '                    <a target="_blank" :href="href.musicHref">\n' +
-            '                        <span class="glyphicon glyphicon-headphones"> 我的歌单</span>\n' +
+            '                        <span class="glyphicon glyphicon-headphones"></span><span  class="navbar-li-span">我的歌单</span>' +
             '                    </a>\n' +
             '                </li>\n' +
             '                <li >\n' +
             '                    <a target="" :href="href.loginHref" id="id-state">\n' +
-            '                        <span class="glyphicon glyphicon-user" id="id-span"> 登录/注册</span>\n' +
+            '                        <span class="glyphicon glyphicon-user" ></span><span class="navbar-li-span" id="id-span">登录注册</span>' +
             '                    </a>\n' +
             '                </li>\n' +
             '            </ul>\n' +

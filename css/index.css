@@ -63,3 +63,6 @@ footer {
 #panel_background {
     background: #FFCC99;
 }
+#id-ul .navbar-li-span  {
+    padding-left: 10px;
+}

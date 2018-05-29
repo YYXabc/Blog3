@@ -12,14 +12,11 @@
 >> Mysql  
 *** 
 ### 实现功能  
-1. 登录功能(login.php)  
-![Alt text](img/githubImg/img1.png)  
+1. 登录功能(login.php)   
 2. 注册功能(register.html)  
-![Alt text](img/githubImg/img2.png)  
-3. 网页后台管理(indexBackStage.php)
-![Alt text](img/githubImg/img3.png)  
+3. 网页后台管理(indexBackStage.php) 
 4. 图片功能(indexMorePhoto.php)
-![Alt text](img/githubImg/img4.png)  
 5. 评论功能(indexMoreComment.php)
-![Alt text](img/githubImg/img5.png)  
+6. 在线聊天功能(personalCenter.php)
+7. 加好友和删除功能(personalCenter.php)
   
