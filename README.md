@@ -10,4 +10,9 @@
 >> PHP  
 >> Workworkerman  
 >> Mysql  
-  
+*** 
+### 实现功能  
+1. 登录功能(login.php)  
+![Alt text](img/githubImg/img1.png)  
+2. 注册功能(register.html)  
+![Alt text](img/githubImg/img2.png)   
